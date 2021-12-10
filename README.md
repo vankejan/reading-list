@@ -1,6 +1,8 @@
 # reading-list
 Books, Blogs or Articles I have read, complemented with some notes
 
+## Books
+
 - [ ] **Managing Humans**: Biting and Humorous Tales of a Software Engineering Manager
   - Michael Lopp (Rands - https://randsinrepose.com/)
 - [ ] **Code Complete**: A Practical Handbook of Software Construction, Second Edition 2nd Edition
@@ -13,5 +15,11 @@ Books, Blogs or Articles I have read, complemented with some notes
   - Ross Anderson ([Ross Anderson's Blog](https://www.cl.cam.ac.uk/~rja14/))
 - [ ] The Architecture of Open Source Applications
   - Great source of case studies and solutions to real world problems, can be found online - http://aosabook.org/en/index.html
+
+## Blogs
+
+- [Joel on Software](https://www.joelonsoftware.com/)
+- [Rands in Repose](https://randsinrepose.com/)
+- [Liz Danzico](https://bobulate.com/)
 
 
