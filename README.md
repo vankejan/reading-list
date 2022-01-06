@@ -4,6 +4,7 @@ Books, Blogs or Articles I have read, complemented with some notes
 ## Books
 
 - [ ] **Managing Humans**: Biting and Humorous Tales of a Software Engineering Manager
+- [ ] **The Art of Leadership**: Small Things, Done Well
   - Michael Lopp (Rands - https://randsinrepose.com/)
 - [ ] **Code Complete**: A Practical Handbook of Software Construction, Second Edition 2nd Edition
   - Steve McConnell (https://stevemcconnell.com/) 
