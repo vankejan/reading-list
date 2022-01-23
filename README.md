@@ -15,9 +15,11 @@ Books, Blogs or Articles I have read, complemented with some notes
   - Joel Spolsky (Most of the content can be found in the articles on Joel's blog - https://www.joelonsoftware.com/)
 - [ ] **Security Engineering**: A Guide to Building Dependable Distributed Systems 3rd Edition
   - Ross Anderson ([Ross Anderson's Blog](https://www.cl.cam.ac.uk/~rja14/))
-- [ ] The Architecture of Open Source Applications
+- [ ] **The Architecture of Open Source Applications**
   - Great source of case studies and solutions to real world problems, can be found online - http://aosabook.org/en/index.html
-
+- [ ] **The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet**
+  - David Kahn
+ 
 ## Blogs
 
 - [Joel on Software](https://www.joelonsoftware.com/)
