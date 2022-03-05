@@ -21,6 +21,8 @@ Books, Blogs or Articles I have read, complemented with some notes
   - Jon Bentley
 - [ ] **The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet**
   - David Kahn
+- [ ] **Effective Java 2nd Edition**
+  - Joshua Bloch
  
 ## Blogs
 
