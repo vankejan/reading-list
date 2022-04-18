@@ -23,6 +23,8 @@ Books, articles, blogs I read or plan on reading.
   - David Kahn
 - **Effective Java 2nd Edition**
   - Joshua Bloch
+- **Java Concurrency in Practice**
+  - Brian Goetz ([online](https://jcip.net/)) 
  
 ## Blogs
 
