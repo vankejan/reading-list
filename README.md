@@ -25,6 +25,15 @@ Books, articles, blogs I read or plan on reading.
   - Joshua Bloch
 - **Java Concurrency in Practice**
   - Brian Goetz ([online](https://jcip.net/)) 
+- **Practical Process Automation: Orchestration and Integration in Microservices and Cloud Native Architectures**
+  - Bernd Ruecker
+- **Real-Life BPMN**
+  - Jakob Freund and Bernd Rücker
+- **Software Architecture: The Hard Parts**
+  - Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani 
+- **Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems**
+  - Martin Kleppman
+
  
 ## Blogs
 
@@ -32,4 +41,7 @@ Books, articles, blogs I read or plan on reading.
 - [Rands in Repose](https://randsinrepose.com/)
 - [Liz Danzico](https://bobulate.com/)
 
+## Tools
 
+- [Excalidraw](https://excalidraw.com/)
+  - Diagrams 
